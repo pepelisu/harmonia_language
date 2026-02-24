@@ -16,8 +16,7 @@ connective tissue of living speech.
 ## What This Is
 
 Harmonia was developed through an extended creative collaboration 
-between a human musician/thinker and Claude (Anthropic's AI). The 
-human provided creative direction, chose all source materials, wrote 
+between a human thinker (me) and Claude (Anthropic's AI). I provided creative direction, chose all source materials, wrote 
 original texts, and asked the critical questions. Claude generated 
 much of the theoretical framework, analyses, and code.
 
