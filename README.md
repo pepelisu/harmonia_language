@@ -45,7 +45,7 @@ composition:
 | [5. Autumn Leaves](book/05-autumn-leaves.md) | Music → Words | Jazz |
 | [6. No Man Is an Island](book/06-no-man-is-an-island.md) | Words → Music | Poetry |
 | [7. Don Quixote Opening](book/07-don-quixote.md) | Words → Music | Prose |
-| [8. "Knowing"](book/08-knowing.md) | Original | Composition |
+| [8. "Knowing"](book/08-knowing.md) | Words → Music | Original Composition |
 | [9. Complete Grammar](book/09-grammar.md) | — | Reference |
 | [10. Connective Tissue](book/10-connective-tissue.md) | — | v1.1 Update |
 | [11. Honest Assessment](book/11-honest-assessment.md) | — | Self-critique |
