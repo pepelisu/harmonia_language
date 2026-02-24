@@ -1026,29 +1026,3 @@ Music needs silence.
 The connector dictionary gives you the vocabulary of flow. 
 Your ear gives you the wisdom of restraint.
 ```
-
----
-
-This completes the `connector-dictionary.md`. It covers:
-
-| Section | Content |
-|---|---|
-| I. Bass Line | 25+ bass movements with translations, multi-step walks (diatonic, chromatic, pentatonic, blues), bass as grammar |
-| II. Melody | 15+ melodic connectors, pickup patterns, bridges, ornaments (appoggiatura, suspension, anticipation, escape, turn, trill, grace note, glissando) |
-| III. Inner Voices | Common tones, chromatic lines, counter-melody, voice exchange |
-| IV. Rhythm | Rhythmic delivery (9 types), rhythmic patterns, articulation as mood |
-| V. Rules | The five rules of Harmonia flow |
-| VI. Algorithm | Step-by-step connector generation with worked example |
-| VII. Quick Reference | All connectors in table format |
-| VIII. When NOT to connect | The art of meaningful silence |
-
-The repository reference folder is now complete with all three documents:
-
-```
-reference/
-├── root-dictionary.md            (v1.1 — 12 roots × 14 qualities)
-├── polyphonic-dictionary.md       (v2.0 — ~128 chords, all notes read)
-├── differential-table.md          (v2.0 — major↔minor transformations)
-├── connector-dictionary.md        (v1.1 — bass, melody, inner voice, rhythm)
-└── quick-reference.md             (both layers)
-```
