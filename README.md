@@ -39,16 +39,16 @@ composition:
 | Chapter | Piece | Direction | Genre |
 |---------|-------|-----------|-------|
 | [1. Foundations](book/01-foundations.md) | — | — | Theory |
-| [2. Für Elise](book/02-fur-elise.md) | Music → Words | Classical |
-| [3. I'd Rather Go Blind](book/03-id-rather-go-blind.md) | Music → Words | Blues |
-| [4. Hedwig's Theme](book/04-hedwigs-theme.md) | Music → Words | Film |
-| [5. Autumn Leaves](book/05-autumn-leaves.md) | Music → Words | Jazz |
-| [6. No Man Is an Island](book/06-no-man-is-an-island.md) | Words → Music | Poetry |
+| [2. Für Elise](book/02-fur-elise.md) | Für Elise | Music → Words | Classical |
+| [3. I'd Rather Go Blind](book/03-id-rather-go-blind.md) | I'd Rather Go Blind | Music → Words | Blues |
+| [4. Hedwig's Theme](book/04-hedwigs-theme.md) | Hedwig's Theme | Music → Words | Film |
+| [5. Autumn Leaves](book/05-autumn-leaves.md) | Autumn Leaves | Music → Words | Jazz |
+| [6. No Man Is an Island](book/06-no-man-is-an-island.md) | - |  Words → Music | Poetry |
 | [7. Don Quixote Opening](book/07-don-quixote.md) | Words → Music | Prose |
-| [8. "Knowing"](book/08-knowing.md) | Words → Music | Original Composition |
+| [8. "Knowing"](book/08-knowing.md) | Original | Words → Music | Prosa |
 | [9. Complete Grammar](book/09-grammar.md) | — | Reference |
-| [10. Connective Tissue](book/10-connective-tissue.md) | — | v1.1 Update |
-| [11. Honest Assessment](book/11-honest-assessment.md) | — | Self-critique |
+| [10. Connective Tissue](book/10-connective-tissue.md) | - | — | v1.1 Update |
+| [11. Honest Assessment](book/11-honest-assessment.md) | — | - | Self-critique |
 
 ### 🎵 MIDI Scripts
 
