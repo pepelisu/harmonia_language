@@ -31,6 +31,49 @@ is required reading.
 
 ## What's Here
 
+## Two Ways to Read (v1.1 vs v2.0)
+
+Harmonia has two layers. Use either or both:
+
+### Layer 1 — Basic (v1.1): Root + Quality
+
+```
+Em = E (Emotion) + minor (absent) = "something missing 
+                                      in the heart"
+```
+
+One root, one modifier. Fast, accessible, useful for 
+quick translation and composition.
+
+### Layer 2 — Polyphonic (v2.0): All Notes Speak
+
+```
+Em = E + G + B = Emotion + Connection + Time
+   = "feeling through relationship across time"
+```
+
+Every note in the chord carries meaning. Richer, more 
+complex, reveals why specific chords feel the way they do.
+
+### The Differential (v2.0)
+
+When major becomes minor, one specific note drops by a 
+half step — transforming one domain into another:
+
+```
+E major: E + G# + B = Emotion + Spirit + Time
+E minor: E + G  + B = Emotion + Connection + Time
+
+G# → G = Spirit became Connection
+"The transcendent became the human"
+```
+
+This is not just "positive to negative." It is a specific 
+conceptual transformation. See 
+[Chapter 12](book/12-polyphonic-layer.md) and the 
+[Differential Table](reference/differential-table.md).
+
+
 ### 📖 The Book
 
 A complete narrative journey through the development of Harmonia, 
